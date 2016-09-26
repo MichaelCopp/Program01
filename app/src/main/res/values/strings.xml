@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">SVSU CSIS Department</string>
+    <string name="mission">The mission of the Department of Computer Science and Information Systems at SVSU is to provide an outstanding education to its students in accordance with the guidelines of the SVSU mission, to advance scholarship in the key domains of the computing and information systems sciences, and to engage in activities that improve the welfare of society and enhance the reputation of SVSU.
+         </string>
+    <string name="major">Majors</string>
+    <string name="minor">Minors</string>
+    <string name="faculty">Main CSIS Faculty</string>
+    <string name="courses">CSIS Course Grid</string>
+    <string name="title">Mission Statement</string>
+    <string name="title_activity_faculty">FacultyActivity</string>
+    <string name="title_activity_course">CourseActivity</string>
+    <string name="back">Back</string>
+    <string name="fallclass1">MATH-103 MATH-120B CS-105 CS-146</string>
+    <string name="winterclass1">COMM-105A PHIL-205A CS-116</string>
+    <string name="fallclass2">CS-216 CIS-255 CS-245</string>
+    <string name="winterclass2">RPW304 CIS-311 ECON-221^</string>
+    <string name="fallclass3">CIS-333 CIS-386 CS-333* ACCT-213^</string>
+    <string name="winterclass3">CIS-301 CIS-355 CIS-366 CIS-371*</string>
+    <string name="fallclass4">CIS-422 CIS-425* CIS-486*</string>
+    <string name="winterclass4">CIS-424 CIS-490*</string>
+    <string name="csfallclass1">MATH-103 MATH-161 CS-105 CS-146</string>
+    <string name="cswinterclass1">COMM-105A PHIL-205A CS-116</string>
+    <string name="csfallclass2">CS-216 CIS-255 MATH-300 MATH-223</string>
+    <string name="cswinterclass2">CIS-357 CS-331 CS-355 RPW-304 CS-245</string>
+    <string name="csfallclass3">CS-316 CS-401 CIS-311* CS-333*</string>
+    <string name="cswinterclass3">CS-411 CS-446 CS-345* CS-403*</string>
+    <string name="csfallclass4">CS-421 CS-461</string>
+    <string name="cswinterclass4">CS-451 CS-471</string>
+    <string name="disclaimer">An * indicates an elective class, A CIS student is required to take 12 credits, while a CS student is required to take 8 credits.
+        The year it is placed in is only a recommendation.</string>
+    <string name="carot">A ^ indicates a CIS business requirement. It can be swapped out with ACCT 213
+    ECON 221, LAW 308, MGT 321 or MKT 331.</string>
+    <string name="compSci">CS</string>
+    <string name="winter4">4th Winter Semester</string>
+    <string name="winter3">3rd Winter Semester</string>
+    <string name="fall4">4th Fall Semester</string>
+    <string name="winter2">2nd Winter Semester</string>
+    <string name="winter1">1st Winter Semester</string>
+    <string name="compInfoSys">CIS</string>
+    <string name="fall1">1st Fall Semester</string>
+    <string name="fall2">2nd Fall Semester</string>
+    <string name="semester">Semester</string>
+    <string name="fall3">3rd Fall Semester</string>
+    <string name="corserbio">George Corser is an Assistant Professor of Computer Science and Information Systems (CSIS) at Saginaw Valley State University (SVSU). His research defines and analyzes location privacy and security protocols in vehicle networks. His teaching explores web and mobile app development, theoretical computer science and cybercrime. His professional service includes advisory and leadership positions in SVSU student organizations, international technical societies, and a cybercrime analysis consortium. </string>
+    <string name="chobio">Il-Hyung Cho is an associate professor and chair of the Department of Computer Science at Saginaw Valley State University, Michigan, where he has been since 2003. During 2010-2011 he was a Visiting Professor of Bioinformatics lab at Washington State University. He received a B.E. in Electronic and Computer Engineering from Yonsei University in 1987, and an M.S. in Computer Science from Bowling Green State University. He received his Ph.D. in Computer Science from Clemson University in 2000. He worked at Iona Technologies in Boston as a software engineer in 2000-2001, and at Clemson University as visiting lecturer in 2001-2003.</string>
+    <string name="rahmanbio">I graduated with PhD in Computational Analysis and Modeling (2013) from Louisiana Tech University, Ruston, USA. Prior that, I received MS and BSc in Computer Science and Engineering from University of Dhaka, Bangladesh in 2008 and 2006 respectively. I received MS in Mathematics (2011) and MS in Computer Science (2013) from Louisiana Tech University. Before joining SVSU in 2013, I was a research assistant from March, 2009 to February, 2013 at Centr for Secure Cyberspace at Louisiana Tech University. My research interests include detecting and mitigating cyber-behavioral anomalies, behavioral biometrics, machine learning, knowledge discovery from data, image processing and human activity detection from video. I am a member of IEEE and ACM.</string>
+    <string name="george_corser">George Corser</string>
+    <string name="il_hyung_cho">Il-Hyung Cho</string>
+    <string name="khandaker_abir_rahman">Khandaker Abir Rahman</string>
+    <string name="commontitle">Common Courses</string>
+    <string name="differencetitle">CS/CIS Differences</string>
+    <string name="CSISdifferences">Computer Science deals with why computer systems works. This path will offer more programming and development opportunities. The Computer Information Systems deals with how computer systems work. This is more the management side of the IT spectrum, dealing with databases and networking.</string>
+    <string name="commoncourses">Both CIS and CS students will need a combined base of math, ethics and computer programming basics. The shared courses are MATH 103, CS105, CS 116, CS215, COM105, and PHIL205A/210B</string>
+
+</resources>
